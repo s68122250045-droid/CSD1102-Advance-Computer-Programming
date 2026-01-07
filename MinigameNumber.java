@@ -25,13 +25,7 @@ public class MinigameNumber {
         }
         if(guesses == 5) {
             System.out.println("Sorry, you lose lol so noob. The number was " + answer + ".");
-
-        
-
         }
-
-
-
 }
-    }
+}
 }
